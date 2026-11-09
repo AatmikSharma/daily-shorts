@@ -1,4 +1,4 @@
-```python
+
 #!/usr/bin/env python3
 """
 100% Free Daily Animated YouTube Shorts Generator -> Direct Telegram Delivery
@@ -313,4 +313,3 @@ async def main() -> None:
 
 if __name__ == "__main__":
     asyncio.run(main())
-```
